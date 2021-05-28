@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(136, 217, 223);
+    background-position: center;
+}
+input
+{
+    background-color: snow;
+}
+#P1-login-box , #P2-login-box
+{
+	width: 50%;
+	background: rgba(237, 183, 255, 0.781);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	}
+#P1-name , #P2-name
+{
+	display: inline-block;
+}
+button
+{
+	width: 90;
+	background-color: rgb(185, 221, 245);
+}
